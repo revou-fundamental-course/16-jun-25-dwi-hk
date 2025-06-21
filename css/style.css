@@ -23,7 +23,7 @@ nav a {
     background-color: aliceblue;
 }
 
-.bg-antique-white {
+.bg-antiquewhite {
     background-color: antiquewhite;
 }
 
@@ -38,18 +38,18 @@ main>section {
 }
 
 .formula-img {
-    height: 200px;
+    height: 400px;
 
     background-position: center;
     background-size: cover;
 }
 
 .img-luas {
-    background-image: url(https://picsum.photos/200);
+    background-image: url(https://cdn-web.ruangguru.com/landing-pages/assets/hs/Rumus%20Luas%20Segitiga%20Jika%20Diketahui%20Alas%20dan%20Tinggi%20-%20Matematika%20Kelas%207.png);
 }
 
 .img-keliling {
-    background-image: url(https://th.bing.com/th/id/OIP.nRjosVecocFpmSOVQuw6ngHaE8?r=0&rs=1&pid=ImgDetMain);
+    background-image: url(https://1.bp.blogspot.com/-8ECiWkXVFa8/X5i0XGIPc7I/AAAAAAAARxM/vUxWSahkV3UR28ziLVGwsatdjfaqpoNCwCLcBGAsYHQ/s1280/Rumus%2BKeliling%2BSegitiga.png);
 }
 
 /* Form Style */
