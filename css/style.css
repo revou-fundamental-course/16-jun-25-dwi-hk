@@ -1,5 +1,5 @@
 body {
-    font-family: math;
+    font-family: ARIAL;
 }
 
 header {
@@ -49,7 +49,7 @@ main>section {
 }
 
 .img-keliling {
-    background-image: url(https://picsum.photos/250);
+    background-image: url(https://th.bing.com/th/id/OIP.nRjosVecocFpmSOVQuw6ngHaE8?r=0&rs=1&pid=ImgDetMain);
 }
 
 /* Form Style */
